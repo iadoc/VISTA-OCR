@@ -1,2 +1,2 @@
 # VISTA-OCR
-This repository will contains the code of VISTA-OCR.
+This repository will contain the code of VISTA-OCR.
